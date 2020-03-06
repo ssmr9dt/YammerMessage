@@ -3,6 +3,7 @@
   "description": "This package can post message for Yammer.",
   "type": "library",
   "version": "v1.0",
+  "keywords": ["yammer"],
   "license": "MIT",
   "require": {
       "php": ">=5.0.0",
