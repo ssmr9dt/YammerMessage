@@ -15,6 +15,8 @@ Reference test/start.php
 ```php
 require __DIR__ . "/../vendor/autoload.php";
 
+define("YAMMER_TOKEN", "#########");
+
 $YammerMessage = new ssmr9dt\YammerMessage();
 $YammerMessage->sendMessage("Hello, World.", 11111, ["cc" => ["ssmr9dt@gmail.com"]]);
 ```

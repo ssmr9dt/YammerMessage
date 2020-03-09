@@ -2,7 +2,7 @@
   "name": "ssmr9dt/yammermessage",
   "description": "This package can post message for Yammer.",
   "type": "library",
-  "version": "v1.0",
+  "version": "v1.0.2",
   "keywords": ["yammer"],
   "license": "MIT",
   "require": {
