@@ -4,8 +4,6 @@ namespace ssmr9dt;
 
 use HTTP_Request2;
 
-require_once __DIR__ . "/../vendor/autoload.php";
-
 // define("YAMMER_TOKEN", "token");
 
 class YammerMessage

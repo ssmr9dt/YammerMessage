@@ -2,6 +2,8 @@
 
 require __DIR__ . "/../vendor/autoload.php";
 
+define("YAMMER_TOKEN", "###########");
+
 $YammerMessage = new ssmr9dt\YammerMessage();
 
 // Referer: https://developer.yammer.com/docs/messages-json-post
